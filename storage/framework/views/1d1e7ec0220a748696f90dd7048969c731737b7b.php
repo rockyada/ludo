@@ -1,0 +1,1 @@
+<?php /**PATH /home/keasybuy/web/keasybuypanel.dev.obdemo.com/public_html/resources/views/admin/elements/quick_links.blade.php ENDPATH**/ ?>

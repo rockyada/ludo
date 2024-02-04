@@ -1,0 +1,399 @@
+@media (min-width: 1200px) and (max-width: 1440px) {
+}
+
+@media (min-width: 1200px) and (max-width: 1309px) {
+}
+
+@media (min-width: 1200px) {
+}
+@media (min-width: 992px) {
+
+}
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 1199.98px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+}
+
+
+@media (max-width: 1199.98px) {
+    .rcBanner-img-container > img {
+        width: 120px;
+    }
+    .rcBanner-text {
+        font-size: 19px;
+    }
+    .rcBanner-footer {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+}
+
+@media (max-width: 767.98px) {
+    .form-control {
+        font-size: 14px;
+    }
+    .legal_teems_desc {
+        margin-bottom: 28px;
+    }
+    .navbar.navbar-expand-lg {
+        padding-right: 19px;
+    }
+    .kyc-completeBtn {
+        padding: 4px 8px;
+        font-size: 14px;
+    }
+    .kyc-paddingStatus {
+        font-size: 16px;
+    }
+    .kyc-detailsBox {
+        padding: 14px;
+    }
+
+    .support-instagramBtn ,.support-whatsappBtn {
+        padding: 8px 15px;
+        gap: 8px;
+        font-size: 16px;
+    }
+    .or_text {
+        font-size: 28px;
+        margin: 15px 0;
+    }
+   a.navbar-brand {
+        margin-left: 36px;
+    }
+    .referral_earningTitle {
+        font-size: 14px;
+    }
+    .referral_earningPrice {
+        font-size: 13px;
+    }
+    .login_top_title {
+        font-size: 15px;
+    }
+    .btn-primary {
+        padding: 7px 14px;
+        font-size: 14px;
+    }
+    .ludo_convest_nav {
+        left: 5%;
+        width: 90% !important;
+    }
+    .ludo_wrapper {
+        max-width: 100%;
+    }
+    .right_border_box {
+        left: 100%;
+    }
+    #header.is-sticky {
+        width: 100%;
+    }
+    .rightContainer {
+        display: none;
+    }
+    .hey_side_title {
+        margin: 15px 10px;
+    }
+    #header .navbar-expand-lg .navbar-nav .nav-item {
+        margin-bottom: 5px;
+        padding: 16px;
+    }
+    .nav-link {
+        font-size: 24px;
+    }
+    .nav-link img {
+        width: 35px;
+        min-width: 35px;
+    }
+    .nav-link::after {
+        width: 23px;
+        height: 23px;
+    }
+    .side_bar_hey {
+        font-size: 34px;
+    }
+    .submit_btn {
+        padding: 8px 18px;
+        font-size: 15px;
+    }
+    .ludo_content_box {
+        left: 0;
+        max-width: 90%;
+        right: 0;
+        margin: 0 auto;
+    }
+    .bottom_menu_bar {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+}
+
+@media (max-width: 575.98px) {
+    .btn-secondary {
+        padding: 8px 15px;
+        gap: 8px;
+        font-size: 16px;
+    }
+    .referral_formName {
+        padding-bottom: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    .referral_formId {
+        font-size: 12px;
+    }
+    .closing_balanceText {
+        font-size: 12px;
+    }
+    .successPlus {
+        font-size: 13px;
+    }
+    .referral_LeftIcon {
+        flex: 0 0 64px;
+    }
+    .referral_LeftIcon span {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    .referral_LeftIcon img {
+        height: 24px;
+        max-width: 24px;
+    }
+    .profile_editbtn {
+        padding: 7px 11px;
+        font-size: 14px;
+    }
+    .filter_tabs .nav-link {
+        font-size: 12px;
+    }
+    .wallet_back_btn .submit_btn {
+        font-size: 14px;
+        padding: 7px 11px;
+    }
+    .wallet_back_btn .btn-primary {
+        padding: 7px 14px;
+            font-size: 14px;
+    }
+    .form-check-label {
+        padding: 6px 10px;
+        font-size: 13px;
+    }
+    .King_username_text {
+        padding: 6px 10px;
+        font-size: 13px;
+    }
+    .add_modal_popup .modal-title {
+        font-size: 16px;
+    }
+    .add_challengeDesc {
+        font-size: 13px;
+    }
+    .room_code_btns {
+        flex-wrap: wrap;
+    }
+    .user_room_box {
+        padding: 0 0 10px;
+    }
+    .go_ludo_chat {
+        padding: 10px 10px;
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .room_coins_btn ,.room_winn_btn,.room_code_btn {
+        line-height: 18px;
+        font-size: 13px;
+    }
+    .room_code_btn i {
+        font-size: 16px;
+    }
+    
+    .add_challenge_btn {
+        padding: 8px 15px;
+        width: 240px;
+        font-size: 15px;
+    }
+    header .collapse:not(.show) {
+        width: 100%;
+    }
+    .top_header {
+        padding: 8px 10px;
+        font-size: 13px;
+    }
+    .play_nowBtn {
+        font-size: 15px;
+        padding: 13px 20px;
+    }
+    .help_btn_box {
+        width: 50px;
+        height: 50px;
+    }
+    .help_btn_box svg {
+        width: 25px;
+    }
+    #header .navbar-brand img {
+        min-height: 45px;
+        width: 45px;
+        min-width: 45px;
+    }
+    .menu_bar_list {
+        gap: 13px;
+        justify-content: space-between;
+        padding: 10px 20px;
+    }
+    .nav_bottom_menu {
+        font-size: 12px;
+    }
+    .nav_bottom_menu i {
+        font-size: 16px;
+    }
+    .otp_verification input {
+        width: 48px;
+        height: 48px;
+        font-size: 18px;
+    }
+
+    .resend-btn {
+        padding: 5px 12px;
+    }
+    .resend_box {
+        gap: 5px;
+        flex-wrap: wrap;
+    }
+
+    .change-numberBtn svg{
+        width: 18px;
+    }
+}
+
+@media (max-width: 475.98px) {
+    .my_name_img img {
+        width: 37px;
+        height: 37px;
+    }
+    .my_name_img span {
+        font-size: 13px;
+    }
+    .challeng_winDesc {
+        font-size: 13px;
+    }
+    .ludo_limu_text {
+        font-size: 13px;
+        gap: 5px;
+    }
+    .classic_tag {
+        font-size: 11px;
+    }
+    .ludo_card {
+        padding: 10px 10px 15px;
+    }
+    .accept_coin_btn ,.wing_coin_btn {
+        font-size: 12px;
+    }
+    .myChallenges_box h3 ,.view_challeng_text {
+        font-size: 14px;
+    }
+    
+}
+
+@media (max-width: 480px) {
+    .otp_verification input {
+        width: 38px;
+        height: 38px;
+        font-size: 17px;
+    }
+    .referral_formName {
+        width: 177px;
+    }
+    .resand_times {
+        font-size: 12px;
+    }
+    .resend-btn {
+        font-size: 12px;
+        padding: 5px 6px;
+    }
+    .resend_box {
+        gap: 4px;
+        flex-wrap:wrap;
+    }
+    .change-numberBtn{
+        font-size: 12px;
+    }
+    .change-numberBtn svg{
+        width: 14px;
+    }
+}
+
+@media (max-width: 400px) {
+    .referral_formName {
+        font-size: 13px;
+        width:134px;
+    }
+    .referral_formId {
+        font-size: 11px;
+    }
+    .closing_balanceText {
+        font-size: 11px;
+    }
+    .successPlus {
+        font-size: 12px;
+    }
+    .referral_LeftIcon {
+        flex: 0 0 56px;
+    }
+    .referral_LeftIcon span {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .referral_LeftIcon img {
+        height: 24px;
+        max-width: 24px;
+    }
+    .profile_editbtn {
+        padding: 7px 11px;
+        font-size: 14px;
+    }
+    .filter_tabs .nav-link {
+        font-size: 12px;
+    }
+    .resend_box {
+        flex-direction: column;
+    }
+    .metrics_inBox .login_top_title {
+        font-size: 12px;
+    }
+    .login_top_title {
+        padding: 8px 5px;
+    }
+    .login_top_title svg {
+        width: 13px;
+        height: 13px;
+    }
+    .form-label {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .metrics-in1 {
+        width: 13px;
+        height: 13px;
+    }
+    .img_boxRefer img {
+        max-width: 251px;
+    }
+}
